@@ -1,4 +1,5 @@
--- Feature gestion-miembros: estructura inicial de tablas
+-- Feature gestion-miembros y gestion-clases: comentario inicial del esquema
+
 
 
 
