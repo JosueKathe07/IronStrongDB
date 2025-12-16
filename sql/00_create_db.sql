@@ -1,0 +1,12 @@
+IF DB_ID('IronStrongFitness') IS NOT NULL
+BEGIN
+    ALTER DATABASE IronStrongFitness SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+    DROP DATABASE IronStrongFitness;
+END
+GO
+
+CREATE DATABASE IronStrongFitness;
+GO
+
+USE IronStrongFitness;
+GO
