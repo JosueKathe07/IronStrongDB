@@ -1,3 +1,23 @@
+## Módulo Web (Consumo de API - TheMealDB)
+Repositorio del módulo web (HTML + Bootstrap + jQuery):
+https://github.com/JosueKathe07/IronStrongWebMeals.git
+
+### Funcionalidades
+- GET TheMealDB (search)
+- Render de cards con badges (categoría/país)
+- Filtro por categoría en memoria
+- Botón "Agregar al Menú Local" (modal + JSON en consola)
+- POST simulado (ReqRes/JSONPlaceholder)
+
+
+
+
+
+
+
+
+
+
 # IronStrong Fitness – Proyecto Integrador de Base de Datos
 
 ## Descripción del Proyecto
